@@ -1,0 +1,2 @@
+F:\Repos\Unity 2D\Laser Defender\obj\Debug\Unity.Rider.Editor.csprojAssemblyReference.cache
+F:\Repos\Unity 2D\Laser Defender\obj\Debug\Unity.Rider.Editor.csproj.CoreCompileInputs.cache
